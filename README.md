@@ -43,7 +43,7 @@ O TOK TOK requer a ferramenta hping3 para realizar os port scans. Certifique-se 
 
 ## Autor
 
-[Seu nome aqui]
+Suz4no
 
 ## Licença
 
